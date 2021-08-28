@@ -57,8 +57,14 @@ body{
 
 
 @media only screen and (max-width:688px) {
-    .card{
+    .card {
         width: 100%;
+        height: 350px !important;
+        margin-bottom: 50px;
+    }
+
+    .card img{
+        width: 130px !important;
         height: 300px !important;
     }
 
