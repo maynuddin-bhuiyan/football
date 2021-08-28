@@ -67,20 +67,40 @@ body{
         margin-left: 10px !important;
     }
 
+    .input-group{
+        width: 240px !important;
+        
+    }
+
     .form-control{
-        padding: 10px 115px;
-        border-radius: 10px  !important;
+        border-radius: 5px !important;
     }
 
     #button-addon2{
         margin-left: 100px;
-        border-radius: 10px !important;
+        
+    }
+    #button-addon2 {
+        position: absolute;
+        top: 55px;
+        left: 10px;
+        border-radius: 5px;
+    }
+
+    #player_Detils{
+        margin-top: 100px;
     }
 
     .card-img-top {
         width: 70px !important;
         margin: 0 auto !important;
     }
+
+    .last img {
+        width: 100%;
+        text-align: center;
+        margin-left: 0px !important;
+      }
 }
 
   
